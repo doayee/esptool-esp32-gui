@@ -1,6 +1,6 @@
-# DoayeeESP32DFU
+# Doayee ESP32 GUI DFU Tool
 
-A GUI for ESP32 flashing tool esptool.
+A standalone GUI application for ESP32 firmware flashing.
 **Note:** Currently using esptool v2.6
 
 ![gui](/osxgui.png "Description goes here")
@@ -22,3 +22,7 @@ If the partition table has not been changed, it only needs to be reflashed when 
 
 1. Install the project dependencies using your python3 package manager
 2. Run the doayee_dfu.py script in python3
+
+## Feature Requests
+
+Please feel free to get in touch either via GitHub or [twitter](https://twitter.com/DoayeeTech) with any feature requests or suggestions. This is a very early release application and we hope to made it more feature rich in the near future.
