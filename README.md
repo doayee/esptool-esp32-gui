@@ -3,12 +3,12 @@
 A GUI for ESP32 flashing tool esptool.
 **Note:** Currently using esptool v2.6
 
-![gui](esp32bta/dfu/osxgui.PNG "Description goes here")
+![gui](/osxgui.png "Description goes here")
 
 
 ## Installing
 
-You can download prebuilt executable applications for both Windows and MacOS from ?. These are self-contained applications and have no prerequisites on your system. They have been tested with Windows 10 and macOS Mojave.
+You can download prebuilt executable applications for both Windows and MacOS from the [releases section](https://github.com/doayee/esptool-esp32-gui/releases). These are self-contained applications and have no prerequisites on your system. They have been tested with Windows 10 and macOS Mojave.
 
 ## Usage
 
