@@ -1,6 +1,6 @@
 # Doayee ESP32 GUI DFU Tool
 
-A standalone GUI application for ESP32 firmware flashing.
+A standalone GUI application for ESP32 firmware flashing compatible with Windows and macOS.
 **Note:** Currently using esptool v2.6
 
 ![gui](/osxgui.png "Description goes here")
